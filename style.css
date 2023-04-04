@@ -1,4 +1,8 @@
-main{
+/* main{
     height:900px;
-}
+} */
 
+body{
+    height: initial;
+    width: inherit;
+}
